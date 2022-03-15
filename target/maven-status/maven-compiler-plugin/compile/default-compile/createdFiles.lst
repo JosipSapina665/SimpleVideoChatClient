@@ -1,0 +1,9 @@
+com/client/core/BroadcastServerProxy.class
+com/client/gui/ChatFrame$SendHandler.class
+com/client/gui/ChatFrame.class
+com/client/gui/ChatFrame$WindowHandler.class
+com/client/model/Message.class
+com/client/core/Command.class
+com/client/main/ClientMain.class
+com/client/core/ChatListener.class
+com/client/gui/ChatFrame$ChatMessageListener.class
